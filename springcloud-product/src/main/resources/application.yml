@@ -1,0 +1,5 @@
+info:
+  app.name: springcloud-product
+  company.name: enjoy
+  build.artifactId: $project.artifactId$
+  build.modelVersion: $project.modelVersion$

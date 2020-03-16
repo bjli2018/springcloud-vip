@@ -1,0 +1,10 @@
+server:
+  port: 9002
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+        defaultZone: http://admin:admin@eureka1:7001/eureka,http://admin:admin@eureka2:7002/eureka,http://admin:admin@eureka3:7003/eureka
+logging:
+  level:
+    com.enjoy.service: DEBUG
