@@ -7,6 +7,9 @@
 /springcloud-service/target/classes/com/enjoy/
 /springcloud-consumer/springcloud-consumer.iml
 /springcloud-eureka/springcloud-eureka.iml
+/springcloud-eureka/springcloud-product.iml
+/springcloud-eureka/springcloud-security.iml
+/springcloud-eureka/springcloud-service.iml
 /springcloud-vip.iml
 /.idea/
 /springcloud-api/springcloud-api.iml
